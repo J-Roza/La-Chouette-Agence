@@ -676,6 +676,11 @@ a {
     margin: auto auto auto auto;
 }
 
+.italic{
+    font-style: italic;
+}
+
+
 p {
     font-size: 11px;
 }
