@@ -1,2 +1,6 @@
 # Ignoring directories
-img/
+/css
+/js
+/includes
+/fonts
+/img
