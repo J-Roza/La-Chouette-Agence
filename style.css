@@ -544,7 +544,7 @@ a[data-lightbox]:hover::before {
     height: 50px;
     margin-left: -25px;
     border-radius: 50%;
-    background: rgba(0, 0, 0, .6);
+    background: rgba(0, 0, 0, .6);11px
     color: #FFF;
     font-weight: 100;
     z-index: 1;
@@ -682,7 +682,7 @@ a {
 
 
 p {
-    font-size: 11px;
+    font-size: 1.3rem;
 }
 
 .tight-width-whitespace {
