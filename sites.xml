@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.50.0" platform="windows">
+	<Servers>
+		<Server>
+			<Host>ftp.rojo6096.odns.fr</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>rojo6096</User>
+			<Pass encoding="base64">TFFybipCVmJrNW01</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Chouette Agence</Name>
+			<Colour>6</Colour>
+			<LocalDir>C:\Users\djo77\Desktop\OpenClassRoom\Projet 4\Starting website\La Chouette Agence</LocalDir>
+			<RemoteDir>1 0 30 La-chouette-agence.iko-iko.net</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>
